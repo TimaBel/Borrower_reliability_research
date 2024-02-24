@@ -1,3 +1,6 @@
+`Статус проекта: завершен`   
+`Project status: completed`
+
 # Borrower_reliability_research
 ## Исследование надежности заемщиков
 
